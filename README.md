@@ -1,4 +1,38 @@
-# \# Sıfırdan C# ve .NET ile Uygulama Geliştirme
+# <h1 align="center">
+
+# 📘 Sıfırdan C# ve .NET ile Uygulama Geliştirme
+
+# </h1>
+
+# 
+
+# <p align="center">
+
+# C# ve .NET ekosistemi için uygulamalı örnek projeler ve kaynak çalışmalar
+
+# </p>
+
+# 
+
+# <p align="center">
+
+# &#x20; <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white" />
+
+# &#x20; <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white" />
+
+# &#x20; <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white" />
+
+# &#x20; <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white" />
+
+# </p>
+
+# 
+
+# \---
+
+# 
+
+# \## 📖 Hakkında
 
 # 
 
@@ -6,11 +40,19 @@
 
 # 
 
-# \## İçerikler
+# Kitap boyunca, C# programlama dilinin temellerinden başlayarak nesne yönelimli programlama, veri tabanı yönetimi, ADO.NET ve Windows Forms uygulama geliştirme süreçlerine kadar birçok konu uygulamalı örneklerle ele alınmıştır.
 
 # 
 
-# \### C# Temelleri
+# \---
+
+# 
+
+# \## 📚 İçerikler
+
+# 
+
+# \### 🔹 C# Temelleri
 
 # \- C# Nedir?
 
@@ -26,7 +68,7 @@
 
 # 
 
-# \### Operatörler ve Kontrol Yapıları
+# \### 🔹 Operatörler ve Kontrol Yapıları
 
 # \- Aritmetik Operatörler
 
@@ -38,11 +80,11 @@
 
 # \- Döngüler
 
-# \- Exception Handling (Try-Catch)
+# \- Try-Catch Yapıları
 
 # 
 
-# \### Metotlar ve Static Yapılar
+# \### 🔹 Metotlar ve Static Yapılar
 
 # \- Metot Kullanımı
 
@@ -52,7 +94,7 @@
 
 # 
 
-# \### Nesne Yönelimli Programlama (OOP)
+# \### 🔹 Nesne Yönelimli Programlama (OOP)
 
 # \- Sınıflar ve Nesneler
 
@@ -68,7 +110,7 @@
 
 # 
 
-# \### Diziler ve Koleksiyonlar
+# \### 🔹 Diziler ve Koleksiyonlar
 
 # \- Diziler
 
@@ -78,7 +120,7 @@
 
 # 
 
-# \### SQL ve Veri Tabanı Yönetimi
+# \### 🔹 SQL ve Veri Tabanı Yönetimi
 
 # \- SQL Temelleri
 
@@ -94,7 +136,7 @@
 
 # 
 
-# \### ADO.NET
+# \### 🔹 ADO.NET
 
 # \- Connection
 
@@ -110,7 +152,7 @@
 
 # 
 
-# \### Windows Forms Uygulamaları
+# \### 🔹 Windows Forms Uygulamaları
 
 # \- Form Yapıları
 
@@ -130,7 +172,11 @@
 
 # 
 
-# \## Amaç
+# \---
+
+# 
+
+# \## 🎯 Amaç
 
 # 
 
@@ -138,7 +184,11 @@
 
 # 
 
-# \## Teknolojiler
+# \---
+
+# 
+
+# \## 🛠 Kullanılan Teknolojiler
 
 # 
 
@@ -156,7 +206,11 @@
 
 # 
 
-# \## Yazar
+# \---
+
+# 
+
+# \## 👨‍💻 Yazar
 
 # 
 
