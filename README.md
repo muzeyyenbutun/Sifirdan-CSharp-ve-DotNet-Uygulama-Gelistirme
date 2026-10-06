@@ -85,5 +85,14 @@ Bu repository’nin amacı, kitapta anlatılan konuları uygulamalı örneklerle
 
 <p align="center">C# , .NET , SQL Server</p>
 
+## 📚 Kitabı İncele / Satın Al
+
+- [Kodlab Yayınevi](https://www.kodlab.com/sifirdan-c-ve-net-ile-uygulama-gelistirme?srsltid=AU7gw4VcvE2jP7WEBNxZjvGkvneXtDzlkcqlBl9gaTy04UAvw70O0uLX)
+- [Hepsiburada](https://www.hepsiburada.com/kodlab-yayin-dagitim-sifirdan-c-ve-net-ile-uygulama-gelistirme-pm-HBC0000FI9B2L)
+- [Trendyol](https://www.trendyol.com/kodlab-yayin-dagitim/sifirdan-c-ve-net-ile-uygulama-gelistirme-p-1155809864)
+- [D&R](https://www.dr.com.tr/kitap/sifirdan-c-ve-net-ile-uygulama-gelistirme/muzeyyen-butun/egitim-ve-sinav-kitaplari/bilgisayar-kitaplari/programlama/urunno=0002231691001?srsltid=AU7gw4V9HiuLd-l0__k3WQYD4mqEK2DikFcpBDjoGosP7S_M7fMIriWy)
+
 <h1 align="center">👨‍💻 Yazar</h1>
 <p align="center">Müzeyyen Bütün</p>
+
+
