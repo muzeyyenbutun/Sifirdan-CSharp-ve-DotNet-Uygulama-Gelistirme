@@ -2,6 +2,12 @@
 <p align="center">C# ve .NET ekosistemi için uygulamalı örnek projeler ve kaynak çalışmalar</p>
 
 <p align="center">
+  <img src="./kitap-kapagi.jpg"
+       alt="Sıfırdan C# ve .NET ile Uygulama Geliştirme"
+       width="400">
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white" />
